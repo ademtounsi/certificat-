@@ -1,0 +1,49 @@
+a{
+    color: white;
+    margin-right: 30%;
+}
+.navcontainer{
+    position: fixed ;
+    top:0;
+    background-color: black;
+    width: 100%;
+    box-shadow: 2px 4px 2px #132226 ;
+    z-index: 9;
+    opacity:1;
+    transition: .5s center ;
+}
+#database{
+color:red;
+}
+fieldset{
+    width: 40%;
+}
+img{
+    width: 50%;
+    margin-left: 50px;
+}
+.about{
+    background-image: url(https://cdn-images-1.medium.com/max/1600/0*MugCYrTcer0wv2D2.);
+  
+}
+#about{
+    margin-top: 50px;
+}
+#laptop{
+    width: 30%;
+    height: 45%;
+ margin-left: 900px
+}
+.adem{
+    background-color:rgb(83, 62, 62);
+}
+.img{
+    width: 300px;
+    height: 350px;
+}
+.azer{
+    background-color: yellow;
+}
+.hosni{
+   height: 50%;
+}
